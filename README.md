@@ -1,1 +1,10 @@
-# Contoh-Final-Project
+![](ppt/1.png)
+![](ppt/2.png)
+![](ppt/3.png)
+![](ppt/4.png)
+![](ppt/5.png)
+![](ppt/6.png)
+![](ppt/7.png)
+![](ppt/8.png)
+![](ppt/9.png)
+![](ppt/10.png)
